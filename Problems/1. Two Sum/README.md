@@ -30,4 +30,4 @@ You can return the answer in any order.
 * <code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code>
 * **Only one valid answer exists**.
 
-### See other [problems](../README.md)
+### See other [problems](../../README.md)
