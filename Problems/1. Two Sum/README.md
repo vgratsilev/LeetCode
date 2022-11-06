@@ -1,3 +1,5 @@
+### [&#8592; Back to other problems](../../)
+
 ## 1. [Two Sum](https://leetcode.com/problems/two-sum/)
 
 Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*.
@@ -29,5 +31,3 @@ You can return the answer in any order.
 * <code>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></code>
 * <code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code>
 * **Only one valid answer exists**.
-
-### See other [problems](../../README.md)

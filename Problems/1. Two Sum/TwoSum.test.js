@@ -2,10 +2,10 @@ const twoSum = require('./TwoSum');
 
 describe('1. Two Sum', () => {
     test('Example 1', () => {
-        const nums = [2,7,11,15];
+        const nums = [2, 7, 11, 15];
         const target = 9;
 
-        expect(twoSum(nums, target)).toEqual([1,0])
+        expect(twoSum(nums, target)).toEqual([1, 0])
     });
 
     test('Example 3', () => {
@@ -19,7 +19,7 @@ describe('1. Two Sum', () => {
         const nums = [3, 3];
         const target = 6;
 
-        expect(twoSum(nums, target)).toEqual([1,0])
-    })
+        expect(twoSum(nums, target)).toEqual([1, 0])
+    });
 });
 
