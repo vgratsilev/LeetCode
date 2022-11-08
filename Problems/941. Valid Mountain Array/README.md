@@ -1,4 +1,4 @@
-### [&#8592; Back to other problems](../../LeetCode)
+### [&#8592; Back to other problems](../../README.md)
 
 ## 941. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 
