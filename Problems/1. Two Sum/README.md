@@ -1,4 +1,4 @@
-### [&#8592; Back to other problems](../../)
+### [&#8592; Back to other problems](../../README.md)
 
 ## 1. [Two Sum](https://leetcode.com/problems/two-sum/)
 
