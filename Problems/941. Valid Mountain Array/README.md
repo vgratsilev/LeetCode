@@ -17,19 +17,26 @@ Recall that arr is a mountain array if and only if:
 
 **Example 1:**
 
-    Input: arr = [2,1]
-    Output: false
+<pre>
+<b>Input:</b> arr = [2,1]
+<b>Output:</b> false
+</pre>
 
 **Example 2:**
 
-    Input: arr = [3,5,5]
-    Output: false
+<pre>
+<b>Input:</b> arr = [3,5,5]
+<b>Output:</b> false
+</pre>
 
 **Example 3:**
 
-    Input: arr = [0,3,2,1]
-    Output: true
+<pre>
+<b>Input:</b> arr = [0,3,2,1]
+<b>Output:</b> true
+</pre>
 
 ##### Constraints
+
 * <code>1 <= arr.length <= 10<sup>4</sup></code>
 * <code>0 <= arr[i] <= 10<sup>4</sup></code>
