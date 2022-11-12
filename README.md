@@ -1,6 +1,6 @@
 # LeetCode
 
-[LeetCode](https://leetcode.com/) problems solved with JS. Tests done
+[LeetCode](https://leetcode.com/) problems solved with TypeScript. Tests done
 with [Jest](https://jestjs.io/).
 
 * [1. Two Sum](/Problems/1.%20Two%20Sum/)
