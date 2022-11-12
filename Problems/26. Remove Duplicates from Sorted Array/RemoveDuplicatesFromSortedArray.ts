@@ -1,8 +1,4 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
-const removeDuplicates = (nums) => {
+export const removeDuplicates = (nums: number[]): number => {
     let j = 0;
 
     for (let i = 0; i < nums.length; i++) {
@@ -13,5 +9,3 @@ const removeDuplicates = (nums) => {
 
     return j;
 };
-
-module.exports = removeDuplicates;

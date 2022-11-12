@@ -1,8 +1,4 @@
-/**
- * @param {number[]} nums
- * @return {number[][]}
- */
-const threeSum = function (nums) {
+export const threeSum = (nums: number[]): number[][] => {
     const results = [];
     let target = 0;
 
@@ -49,5 +45,3 @@ const threeSum = function (nums) {
 
     return results;
 };
-
-module.exports = threeSum;

@@ -1,9 +1,7 @@
 /**
  * Two pointers solution
- * @param {number[]} arr
- * @return {boolean}
  */
-const checkIfExist = (arr) => {
+export const checkIfExist = (arr: number[]): boolean => {
     let left = 0, right = 1;
 
     while (left < arr.length - 1) {
@@ -21,10 +19,8 @@ const checkIfExist = (arr) => {
 
 /**
  * Hashmap solution
- * @param arr
- * @returns {boolean}
  */
-const checkIfExist_v2 = (arr) => {
+export const checkIfExist_v2 = (arr: number[]): boolean => {
     let result = false;
 
     if (arr.filter((item) => item === 0).length > 1) {
@@ -49,9 +45,4 @@ const checkIfExist_v2 = (arr) => {
     }
 
     return result;
-};
-
-module.exports = {
-    checkIfExist,
-    checkIfExist_v2,
 };

@@ -1,8 +1,4 @@
-/**
- * @param {number[]} arr
- * @return {boolean}
- */
-const validMountainArray = (arr) => {
+export const validMountainArray = (arr: number[]): boolean => {
     let isIncreasing = false;
     let isDecreasing = false;
     const n = arr.length;
@@ -23,5 +19,3 @@ const validMountainArray = (arr) => {
 
     return isIncreasing && isDecreasing;
 };
-
-module.exports = validMountainArray;

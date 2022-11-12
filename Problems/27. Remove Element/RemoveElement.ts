@@ -1,9 +1,4 @@
-/**
- * @param {number[]} nums
- * @param {number} val
- * @return {number}
- */
-const removeElement = (nums, val) => {
+export const removeElement = (nums: number[], val: number): number => {
     let j = 0;
     for (let i = 0; i < nums.length; i++) {
         if (nums[i] !== val) {
@@ -12,5 +7,3 @@ const removeElement = (nums, val) => {
     }
     return j;
 };
-
-module.exports = removeElement;

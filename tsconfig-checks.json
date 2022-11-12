@@ -4,9 +4,9 @@
     "strict": true,
     "noPropertyAccessFromIndexSignature": true,
     // "noUncheckedIndexedAccess": true,
-    
+
     // Linter Checks
-    "noImplicitReturns": true,
+    // "noImplicitReturns": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "allowUnreachableCode": false,
