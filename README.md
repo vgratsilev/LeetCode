@@ -4,6 +4,7 @@
 with [Jest](https://jestjs.io/).
 
 * [1. Two Sum](/Problems/1.%20Two%20Sum/)
+* [2. Add Two Numbers](/Problems/2.%20Add%20Two%20Numbers/)
 * [15. 3Sum](/Problems/15.%203Sum/)
 * [26. Remove Duplicates from Sorted Array](/Problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
 * [27. Remove Element](/Problems/27.%20Remove%20Element/)
