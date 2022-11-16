@@ -36,7 +36,7 @@ You can return the answer in any order.
 
 ##### Constraints
 
-* <code>2 <= nums.length <= 10^4</code>
+* <code>2 <= nums.length <= 10<sup>4</sup></code>
 * <code>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></code>
 * <code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code>
 * **Only one valid answer exists**.
