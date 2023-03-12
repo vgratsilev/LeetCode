@@ -9,6 +9,7 @@ with [Jest](https://jestjs.io/).
 * [9. Palindrome Number](/Problems/9.%20Palindrome%20Number/)
 * [13. Roman to Integer](/Problems/13.%20Roman%20to%20Integer/)
 * [14. Longest Common Prefix](/Problems/14.%20Longest%20Common%20Prefix/)
+* [20. Valid Parentheses](/Problems/20.%20Valid%20Parentheses/)
 * [15. 3Sum](/Problems/15.%203Sum/)
 * [26. Remove Duplicates from Sorted Array](/Problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
 * [27. Remove Element](/Problems/27.%20Remove%20Element/)
