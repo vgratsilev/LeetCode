@@ -8,4 +8,8 @@ describe('13. Roman to Integer', () => {
     test('Example 2', () => {
         expect(longestCommonPrefix([ 'dog', 'racecar', 'car' ])).toBe('');
     });
+
+    test('Example 3', () => {
+        expect(longestCommonPrefix([ 'flower', 'flower', 'flower', 'flower' ])).toBe('flower');
+    });
 });
