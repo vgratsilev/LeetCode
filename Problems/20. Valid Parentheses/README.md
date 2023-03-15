@@ -28,7 +28,7 @@ An input string is valid if:
 <b>Output:</b> true
 </pre>
 
-**Example 2:**
+**Example 3:**
 
 <pre>
 <b>Input:</b> s = "(]"
