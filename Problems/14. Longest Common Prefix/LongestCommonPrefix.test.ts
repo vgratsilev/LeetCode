@@ -1,6 +1,6 @@
 import { longestCommonPrefix } from './LongestCommonPrefix';
 
-describe('13. Roman to Integer', () => {
+describe('14. Longest Common Prefix', () => {
     test('Example 1', () => {
         expect(longestCommonPrefix([ 'flower', 'flow', 'flight' ])).toBe('fl');
     });

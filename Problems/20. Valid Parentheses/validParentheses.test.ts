@@ -1,6 +1,6 @@
 import { isValid } from './validParentheses';
 
-describe('13. Roman to Integer', () => {
+describe('20. Valid Parentheses', () => {
     test('Example 1', () => {
         expect(isValid('()')).toBeTruthy();
     });
