@@ -1,6 +1,6 @@
 import { reverse } from './reverseInteger';
 
-describe('13. Roman to Integer', () => {
+describe('7. Reverse Integer', () => {
     test('Example 1', () => {
         expect(reverse(123)).toBe(321);
     });
