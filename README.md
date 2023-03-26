@@ -18,6 +18,7 @@ with [Jest](https://jestjs.io/).
 * [21. Merge Two Sorted Lists](/Problems/21.%20Merge%20Two%20Sorted%20Lists/)
 * [26. Remove Duplicates from Sorted Array](/Problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
 * [27. Remove Element](/Problems/27.%20Remove%20Element/)
+* [56. Merge Intervals](/Problems/56.%20Merge%20Intervals/)
 * [88. Merge Sorted Array](/Problems/88.%20Merge%20Sorted%20Array/)
 * [941. Valid Mountain Array](/Problems/941.%20Valid%20Mountain%20Array/)
 * [977. Squares of a Sorted Array](/Problems/977.%20Squares%20of%20a%20Sorted%20Array/)
