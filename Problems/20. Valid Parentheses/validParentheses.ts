@@ -1,3 +1,8 @@
+/**
+ * Time complexity O(n)
+ * Space complexity O(n)
+ */
+
 export const isValid = (s: string): boolean => {
     if(s.length % 2 !== 0 || s[0] === ']' || s[0] === ')' || s[0] === '}') {
         return false;
