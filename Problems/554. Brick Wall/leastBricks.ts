@@ -4,7 +4,7 @@
  */
 
 export const leastBricks = (wall: number[][]): number => {
-    const map: { [key: string]: number } = {};
+    const map: Record<number, number> = {};
     let max = 0;
 
     wall.forEach((row) => {

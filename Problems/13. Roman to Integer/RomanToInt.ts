@@ -1,6 +1,5 @@
 const romanMap = new Map([
     [ 'I', 1 ],
-    [ 'IV', 5 ],
     [ 'V', 5 ],
     [ 'X', 10 ],
     [ 'L', 50 ],
