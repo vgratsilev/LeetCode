@@ -18,6 +18,7 @@ with [Jest](https://jestjs.io/).
 * [21. Merge Two Sorted Lists](/Problems/21.%20Merge%20Two%20Sorted%20Lists/)
 * [26. Remove Duplicates from Sorted Array](/Problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
 * [27. Remove Element](/Problems/27.%20Remove%20Element/)
+* [32. Longest Valid Parentheses](/Problems/32.%20Longest%20Valid%20Parenthesest/)
 * [39. Combination Sum](/Problems/39.%20Combination%20Sum/)
 * [42. Trapping Rain Water](/Problems/42.%20Trapping%20Rain%20Water/)
 * [56. Merge Intervals](/Problems/56.%20Merge%20Intervals/)
