@@ -25,6 +25,7 @@ with [Jest](https://jestjs.io/).
 * [88. Merge Sorted Array](/Problems/88.%20Merge%20Sorted%20Array/)
 * [121. Best Time to Buy and Sell Stock](/Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/)
 * [122. Best Time to Buy and Sell Stock II](/Problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)
+* [200. Number of Islands](/Problems/200.%20Number%20of%20Islands/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
 * [941. Valid Mountain Array](/Problems/941.%20Valid%20Mountain%20Array/)
 * [977. Squares of a Sorted Array](/Problems/977.%20Squares%20of%20a%20Sorted%20Array/)
