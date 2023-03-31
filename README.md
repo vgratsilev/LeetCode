@@ -22,6 +22,7 @@ with [Jest](https://jestjs.io/).
 * [39. Combination Sum](/Problems/39.%20Combination%20Sum/)
 * [42. Trapping Rain Water](/Problems/42.%20Trapping%20Rain%20Water/)
 * [56. Merge Intervals](/Problems/56.%20Merge%20Intervals/)
+* [57. Insert Interval](/Problems/57.%20Insert%20Interval/)
 * [88. Merge Sorted Array](/Problems/88.%20Merge%20Sorted%20Array/)
 * [121. Best Time to Buy and Sell Stock](/Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/)
 * [122. Best Time to Buy and Sell Stock II](/Problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)
