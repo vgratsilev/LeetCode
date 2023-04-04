@@ -13,5 +13,3 @@ describe('58. Length of Last Word', () => {
         expect(lengthOfLastWord('luffy is still joyboy')).toBe(6);
     });
 });
-
-
