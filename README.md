@@ -23,6 +23,7 @@ with [Jest](https://jestjs.io/).
 * [40. Combination Sum](/Problems/40.%20Combination%20Sum%20II/)
 * [42. Trapping Rain Water](/Problems/42.%20Trapping%20Rain%20Water/)
 * [51. N-Queens](/Problems/51.%20N-Queens/)
+* [52. N-Queens](/Problems/52.%20N-Queens%20II/)
 * [56. Merge Intervals](/Problems/56.%20Merge%20Intervals/)
 * [57. Insert Interval](/Problems/57.%20Insert%20Interval/)
 * [58. Length of Last Word](/Problems/58.%20Length%20of%20Last%20Word/)
