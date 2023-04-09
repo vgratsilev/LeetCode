@@ -19,6 +19,7 @@ with [Jest](https://jestjs.io/).
 * [26. Remove Duplicates from Sorted Array](/Problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
 * [27. Remove Element](/Problems/27.%20Remove%20Element/)
 * [32. Longest Valid Parentheses](/Problems/32.%20Longest%20Valid%20Parenthesest/)
+* [35. Search Insert Position](/Problems/35.%20Search%20Insert%20Position/)
 * [39. Combination Sum](/Problems/39.%20Combination%20Sum/)
 * [40. Combination Sum](/Problems/40.%20Combination%20Sum%20II/)
 * [42. Trapping Rain Water](/Problems/42.%20Trapping%20Rain%20Water/)
