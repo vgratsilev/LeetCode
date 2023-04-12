@@ -44,3 +44,4 @@ with [Jest](https://jestjs.io/).
 * [1089. Duplicate Zeros](/Problems/1089.%20Duplicate%20Zeros/)
 * [1295. Find Numbers with Even Number of Digits](/Problems/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/)
 * [1346. Check If N and Its Double Exist](/Problems/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/)
+* [2620. Counter](/Problems/2620.%20Counter/)
