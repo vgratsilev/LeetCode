@@ -46,3 +46,4 @@ with [Jest](https://jestjs.io/).
 * [1346. Check If N and Its Double Exist](/Problems/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/)
 * [2619. Array Prototype Last](/Problems/2619.%20Array%20Prototype%20Last/)
 * [2620. Counter](/Problems/2620.%20Counter/)
+* [2621. Sleep](/Problems/2621.%20Sleep/)
