@@ -48,5 +48,6 @@ with [Jest](https://jestjs.io/).
 * [2619. Array Prototype Last](/Problems/2619.%20Array%20Prototype%20Last/)
 * [2620. Counter](/Problems/2620.%20Counter/)
 * [2621. Sleep](/Problems/2621.%20Sleep/)
+* [2622. Cache With Time Limit](/Problems/2622.%20Cache%20With%20Time%20Limit/)
 * [2626. Array Reduce Transformation](/Problems/2626.%20Array%20Reduce%20Transformation/)
 * [2627. Debounce](/Problems/2627.%20Debounce/)
