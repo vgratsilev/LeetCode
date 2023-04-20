@@ -50,5 +50,6 @@ with [Jest](https://jestjs.io/).
 * [2621. Sleep](/Problems/2621.%20Sleep/)
 * [2622. Cache With Time Limit](/Problems/2622.%20Cache%20With%20Time%20Limit/)
 * [2623. Memoize](/Problems/2623.%20Memoize/)
+* [2625. Flatten Deeply Nested Array](/Problems/2625.%20Flatten%20Deeply%20Nested%20Array/)
 * [2626. Array Reduce Transformation](/Problems/2626.%20Array%20Reduce%20Transformation/)
 * [2627. Debounce](/Problems/2627.%20Debounce/)
