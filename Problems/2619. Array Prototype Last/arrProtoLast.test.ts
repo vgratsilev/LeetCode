@@ -1,12 +1,12 @@
 describe('2619. Array Prototype Last', () => {
-    beforeEach(() => {
+    beforeAll(() => {
         // @ts-ignore
         Array.prototype.last = function() {
             return this.length ? this.at(-1) : -1;
         };
     });
 
-    afterEach(() => {
+    afterAll(() => {
         // @ts-ignore
         Array.prototype.last = false;
     });
