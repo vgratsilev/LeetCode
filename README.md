@@ -54,3 +54,4 @@ with [Jest](https://jestjs.io/).
 * [2625. Flatten Deeply Nested Array](/Problems/2625.%20Flatten%20Deeply%20Nested%20Array/)
 * [2626. Array Reduce Transformation](/Problems/2626.%20Array%20Reduce%20Transformation/)
 * [2627. Debounce](/Problems/2627.%20Debounce/)
+* [2628. JSON Deep Equal](/Problems/2628.%20JSON%20Deep%20Equal/)
