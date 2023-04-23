@@ -55,3 +55,4 @@ with [Jest](https://jestjs.io/).
 * [2626. Array Reduce Transformation](/Problems/2626.%20Array%20Reduce%20Transformation/)
 * [2627. Debounce](/Problems/2627.%20Debounce/)
 * [2628. JSON Deep Equal](/Problems/2628.%20JSON%20Deep%20Equal/)
+* [2629. Function Composition](/Problems/2629.%20Function%20Composition/)
