@@ -57,3 +57,4 @@ with [Jest](https://jestjs.io/).
 * [2628. JSON Deep Equal](/Problems/2628.%20JSON%20Deep%20Equal/)
 * [2629. Function Composition](/Problems/2629.%20Function%20Composition/)
 * [2630. Memoize II](/Problems/2630.%20Memoize%20II/)
+* [2631. Group By](/Problems/2631.%20Group%20By/)
