@@ -53,7 +53,7 @@ You should be able to pass the parameters in any way, including all at once or n
 curriedSum()()(1, 2, 3) should return the same value as sum(1, 2, 3).
 </pre>
 
-**Example 3:**
+**Example 4:**
 
 <pre>
 <b>Input:</b>
