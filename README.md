@@ -62,3 +62,4 @@ with [Jest](https://jestjs.io/).
 * [2633. Convert Object to JSON String](/Problems/2633.%20Convert%20Object%20to%20JSON%20String/)
 * [2634. Filter Elements from Array](/Problems/2634.%20Filter%20Elements%20from%20Array/)
 * [2635. Apply Transform Over Each Element in Array](/Problems/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array/)
+* [2648. Generate Fibonacci Sequence](/Problems/2648.%20Generate%20Fibonacci%20Sequence/)
