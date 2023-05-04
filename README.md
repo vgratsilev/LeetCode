@@ -66,3 +66,4 @@ with [Jest](https://jestjs.io/).
 * [2637. Promise Time Limit](/Problems/2637.%20Promise%20Time%20Limit/)
 * [2648. Generate Fibonacci Sequence](/Problems/2648.%20Generate%20Fibonacci%20Sequence/)
 * [2649. Nested Array Generator](/Problems/2649.%20Nested%20Array%20Generator/)
+* [2665. Counter II](/Problems/2665.%20Counter%20II/)
