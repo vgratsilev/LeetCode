@@ -68,3 +68,4 @@ with [Jest](https://jestjs.io/).
 * [2649. Nested Array Generator](/Problems/2649.%20Nested%20Array%20Generator/)
 * [2665. Counter II](/Problems/2665.%20Counter%20II/)
 * [2666. Allow One Function Call](/Problems/2666.%20Allow%20One%20Function%20Call/)
+* [2667. Create Hello World Function](/Problems/2667.%20Create%20Hello%20World%20Function/)
