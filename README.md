@@ -14,6 +14,7 @@ with [Jest](https://jestjs.io/).
 * [13. Roman to Integer](/Problems/13.%20Roman%20to%20Integer/)
 * [14. Longest Common Prefix](/Problems/14.%20Longest%20Common%20Prefix/)
 * [15. 3Sum](/Problems/15.%203Sum/)
+* [16. 3Sum Closest](/Problems/16.%203Sum%20Closest/)
 * [20. Valid Parentheses](/Problems/20.%20Valid%20Parentheses/)
 * [21. Merge Two Sorted Lists](/Problems/21.%20Merge%20Two%20Sorted%20Lists/)
 * [26. Remove Duplicates from Sorted Array](/Problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
