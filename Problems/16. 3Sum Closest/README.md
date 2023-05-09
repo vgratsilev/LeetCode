@@ -1,6 +1,6 @@
 ### [&#8592; Back to other problems](../../README.md)
 
-## 16. [ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+## 16. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 
 Given an integer array `nums` of length `n` and an integer `target`, find three integers in `nums`
 such that
