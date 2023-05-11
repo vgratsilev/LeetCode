@@ -40,6 +40,7 @@ with [Jest](https://jestjs.io/).
 * [125. Valid Palindrome](/Problems/125.%20Valid%20Palindrome/)
 * [136. Single Number](/Problems/136.%20Single%20Number/)
 * [200. Number of Islands](/Problems/200.%20Number%20of%20Islands/)
+* [349. Intersection of Two Arrays](/Problems/349.%20Intersection%20of%20Two%20Arrays/)
 * [384. Shuffle an Array](/Problems/384.%20Shuffle%20an%20Array/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
 * [941. Valid Mountain Array](/Problems/941.%20Valid%20Mountain%20Array/)
