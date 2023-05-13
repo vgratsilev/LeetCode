@@ -12,4 +12,8 @@ describe('326. Power of Three', () => {
     test('Example 3', () => {
         expect(isPowerOfThree(-1)).toBeFalsy();
     });
+
+    test('Example 4', () => {
+        expect(isPowerOfThree(1)).toBeTruthy();
+    });
 });
