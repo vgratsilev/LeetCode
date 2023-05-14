@@ -41,6 +41,7 @@ with [Jest](https://jestjs.io/).
 * [136. Single Number](/Problems/136.%20Single%20Number/)
 * [200. Number of Islands](/Problems/200.%20Number%20of%20Islands/)
 * [326. Power of Three](/Problems/326.%20Power%20of%20Three/)
+* [338. Counting Bits](/Problems/338.%20Counting%20Bits/)
 * [349. Intersection of Two Arrays](/Problems/349.%20Intersection%20of%20Two%20Arrays/)
 * [350. Intersection of Two Arrays II](/Problems/350.%20Intersection%20of%20Two%20Arrays%20II/)
 * [384. Shuffle an Array](/Problems/384.%20Shuffle%20an%20Array/)
