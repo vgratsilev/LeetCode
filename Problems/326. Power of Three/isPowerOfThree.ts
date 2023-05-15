@@ -18,13 +18,16 @@ export function isPowerOfThree(n: number): boolean {
  */
 
 export function isPowerOfThreeLoop(n: number): boolean {
-    if(n < 3) {
+    if(n < 1) {
         return false;
     }
 
     while(n > 1) {
-        if(n % 3 === 0) n /= 3;
-        else break;
+        if(n % 3 === 0) {
+            n /= 3;
+        } else {
+            break;
+        }
     }
     return n === 1;
 }
