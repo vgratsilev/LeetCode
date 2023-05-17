@@ -1,6 +1,6 @@
 import { reverseString } from './reverseString';
 
-describe('344. Reverse String\n', () => {
+describe('344. Reverse String', () => {
     test('Example 1', () => {
         let s = [ 'h', 'e', 'l', 'l', 'o' ];
         reverseString(s);

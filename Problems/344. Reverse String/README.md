@@ -13,10 +13,6 @@ You must do this by modifying the input array in-place with `O(1)` extra memory.
 <pre>
 <b>Input:</b> s = ["h","e","l","l","o"]
 <b>Output:</b> ["o","l","l","e","h"]
-<b>Explanation:</b>
-0 --> 0
-1 --> 1
-2 --> 10
 </pre>
 
 **Example 2:**
@@ -28,5 +24,5 @@ You must do this by modifying the input array in-place with `O(1)` extra memory.
 
 ##### Constraints
 
-* <code>1 <= s.length <= 10<sup>5</sup> - 1</code>
+* <code>1 <= s.length <= 10<sup>5</sup></code>
 * <code>s[i] is a printable ascii character.</code>
