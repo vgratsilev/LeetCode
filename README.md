@@ -43,6 +43,7 @@ with [Jest](https://jestjs.io/).
 * [326. Power of Three](/Problems/326.%20Power%20of%20Three/)
 * [338. Counting Bits](/Problems/338.%20Counting%20Bits/)
 * [342. Power of Four](/Problems/342.%20Power%20of%20Four/)
+* [343. Integer Break](/Problems/343.%20Integer%20Break/)
 * [344. Reverse String](/Problems/344.%20Reverse%20String/)
 * [345. Reverse Vowels of a String](/Problems/345.%20Reverse%20Vowels%20of%20a%20String/)
 * [349. Intersection of Two Arrays](/Problems/349.%20Intersection%20of%20Two%20Arrays/)
