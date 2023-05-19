@@ -46,6 +46,7 @@ with [Jest](https://jestjs.io/).
 * [343. Integer Break](/Problems/343.%20Integer%20Break/)
 * [344. Reverse String](/Problems/344.%20Reverse%20String/)
 * [345. Reverse Vowels of a String](/Problems/345.%20Reverse%20Vowels%20of%20a%20String/)
+* [347. Top K Frequent Elements](/Problems/347.%20Top%20K%20Frequent%20Elements/)
 * [349. Intersection of Two Arrays](/Problems/349.%20Intersection%20of%20Two%20Arrays/)
 * [350. Intersection of Two Arrays II](/Problems/350.%20Intersection%20of%20Two%20Arrays%20II/)
 * [384. Shuffle an Array](/Problems/384.%20Shuffle%20an%20Array/)
