@@ -40,6 +40,7 @@ with [Jest](https://jestjs.io/).
 * [125. Valid Palindrome](/Problems/125.%20Valid%20Palindrome/)
 * [136. Single Number](/Problems/136.%20Single%20Number/)
 * [200. Number of Islands](/Problems/200.%20Number%20of%20Islands/)
+* [231. Power of Two](/Problems/231.%20Power%20of%20Two/)
 * [326. Power of Three](/Problems/326.%20Power%20of%20Three/)
 * [338. Counting Bits](/Problems/338.%20Counting%20Bits/)
 * [342. Power of Four](/Problems/342.%20Power%20of%20Four/)
