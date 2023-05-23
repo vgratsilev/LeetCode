@@ -1,6 +1,6 @@
 import { isPowerOfTwo } from './isPowerOfTwo';
 
-describe('231. Power of Two\n', () => {
+describe('231. Power of Two', () => {
     test('Example 1', () => {
         expect(isPowerOfTwo(1)).toBeTruthy();
     });
