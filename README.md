@@ -42,6 +42,7 @@ with [Jest](https://jestjs.io/).
 * [200. Number of Islands](/Problems/200.%20Number%20of%20Islands/)
 * [231. Power of Two](/Problems/231.%20Power%20of%20Two/)
 * [242. Valid Anagram](/Problems/242.%20Valid%20Anagram/)
+* [258. Add Digits](/Problems/258.%20Add%20Digits/)
 * [326. Power of Three](/Problems/326.%20Power%20of%20Three/)
 * [338. Counting Bits](/Problems/338.%20Counting%20Bits/)
 * [342. Power of Four](/Problems/342.%20Power%20of%20Four/)
