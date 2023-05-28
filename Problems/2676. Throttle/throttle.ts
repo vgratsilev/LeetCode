@@ -8,12 +8,12 @@ export function throttle(fn: F, t: number): F {
     return (...args) => {
         const millisecondsUntilNextExecution = nextExecutionTimeStamp - Date.now();
 
-        // cancel  if in delay period
+        // cancel if in delay period
         if(millisecondsUntilNextExecution > 0) {
             clearTimeout(timerID);
         }
-        
-        // run `fn` when delay period is over
+
+        // run fn when delay period is over
         timerID = setTimeout(() => {
             fn(...args);
             nextExecutionTimeStamp = Date.now() + t;
