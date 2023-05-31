@@ -93,3 +93,4 @@ with [Jest](https://jestjs.io/).
 * [2676. Throttle](/Problems/2676.%20Throttle/)
 * [2677. Chunk Array](/Problems/2677.%20Chunk%20Array/)
 * [2695. Array Wrapper](/Problems/2695.%20Array%20Wrapper/)
+* [2703. Return Length of Arguments Passed](/Problems/2703.%20Return%20Length%20of%20Arguments%20Passed/)
