@@ -94,3 +94,4 @@ with [Jest](https://jestjs.io/).
 * [2677. Chunk Array](/Problems/2677.%20Chunk%20Array/)
 * [2695. Array Wrapper](/Problems/2695.%20Array%20Wrapper/)
 * [2703. Return Length of Arguments Passed](/Problems/2703.%20Return%20Length%20of%20Arguments%20Passed/)
+* [2704. To Be Or Not To Be](/Problems/2704.%20To%20Be%20Or%20Not%20To%20Be/)
