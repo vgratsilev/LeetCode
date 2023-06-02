@@ -95,3 +95,4 @@ with [Jest](https://jestjs.io/).
 * [2695. Array Wrapper](/Problems/2695.%20Array%20Wrapper/)
 * [2703. Return Length of Arguments Passed](/Problems/2703.%20Return%20Length%20of%20Arguments%20Passed/)
 * [2704. To Be Or Not To Be](/Problems/2704.%20To%20Be%20Or%20Not%20To%20Be/)
+* [2715. Execute Cancellable Function With Delay](/Problems/2715.%20Execute%20Cancellable%20Function%20With%20Delay/)
