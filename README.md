@@ -56,6 +56,7 @@ with [Jest](https://jestjs.io/).
 * [350. Intersection of Two Arrays II](/Problems/350.%20Intersection%20of%20Two%20Arrays%20II/)
 * [367. Valid Perfect Square](/Problems/367.%20Valid%20Perfect%20Square/)
 * [374. Guess Number Higher or Lower](/Problems/374.%20Guess%20Number%20Higher%20or%20Lower/)
+* [383. Ransom Note](/Problems/383.%20Ransom%20Note/)
 * [384. Shuffle an Array](/Problems/384.%20Shuffle%20an%20Array/)
 * [389. Find the Difference](/Problems/389.%20Find%20the%20Difference/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
