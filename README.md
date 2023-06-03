@@ -59,6 +59,7 @@ with [Jest](https://jestjs.io/).
 * [383. Ransom Note](/Problems/383.%20Ransom%20Note/)
 * [384. Shuffle an Array](/Problems/384.%20Shuffle%20an%20Array/)
 * [389. Find the Difference](/Problems/389.%20Find%20the%20Difference/)
+* [412. Fizz Buzz](/Problems/412.%20Fizz%20Buzz/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
 * [941. Valid Mountain Array](/Problems/941.%20Valid%20Mountain%20Array/)
 * [977. Squares of a Sorted Array](/Problems/977.%20Squares%20of%20a%20Sorted%20Array/)
