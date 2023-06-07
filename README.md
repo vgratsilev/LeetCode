@@ -100,3 +100,4 @@ with [Jest](https://jestjs.io/).
 * [2704. To Be Or Not To Be](/Problems/2704.%20To%20Be%20Or%20Not%20To%20Be/)
 * [2705. Compact Object](/Problems/2705.%20Compact%20Object/)
 * [2715. Execute Cancellable Function With Delay](/Problems/2715.%20Execute%20Cancellable%20Function%20With%20Delay/)
+* [2723. Add Two Promises](/Problems/2723.%20Add%20Two%20Promises/)
