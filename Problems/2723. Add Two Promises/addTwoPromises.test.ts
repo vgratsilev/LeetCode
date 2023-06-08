@@ -1,6 +1,6 @@
 import { addTwoPromises } from './addTwoPromises';
 
-describe('2705. Compact Object', () => {
+describe('2723. Add Two Promises', () => {
     test('Example 1', () => {
         const promise1: Promise<number> = new Promise(resolve => setTimeout(() => resolve(2), 20));
         const promise2: Promise<number> = new Promise(resolve => setTimeout(() => resolve(5), 60));

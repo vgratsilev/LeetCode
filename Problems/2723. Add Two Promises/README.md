@@ -28,14 +28,6 @@ promise2 = new Promise(resolve => setTimeout(() => resolve(-12), 30))
 <b>Explanation:</b> The two input promises resolve with the values of 10 and -12 respectively. The returned promise should resolve with a value of 10 + -12 = -2.
 </pre>
 
-**Example 3:**
-
-<pre>
-<b>Input:</b> obj = [null, 0, 5, [0], [false, 16]]
-<b>Output:</b> [5, [], [16]]
-<b>Explanation:</b> obj[0], obj[1], obj[3][0], and obj[4][0] were falsy and removed.
-</pre>
-
 ##### Constraints
 
 * <code>promise1 and promise2 are promises that resolve with a number</code>
