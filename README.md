@@ -102,3 +102,4 @@ with [Jest](https://jestjs.io/).
 * [2715. Execute Cancellable Function With Delay](/Problems/2715.%20Execute%20Cancellable%20Function%20With%20Delay/)
 * [2723. Add Two Promises](/Problems/2723.%20Add%20Two%20Promises/)
 * [2724. Sort By](/Problems/2724.%20Sort%20By/)
+* [2725. Interval Cancellation](/Problems/2725.%20Interval%20Cancellation/)
