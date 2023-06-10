@@ -103,3 +103,4 @@ with [Jest](https://jestjs.io/).
 * [2723. Add Two Promises](/Problems/2723.%20Add%20Two%20Promises/)
 * [2724. Sort By](/Problems/2724.%20Sort%20By/)
 * [2725. Interval Cancellation](/Problems/2725.%20Interval%20Cancellation/)
+* [2726. Calculator with Method Chaining](/Problems/2726.%20Calculator%20with%20Method%20Chaining/)
