@@ -62,6 +62,7 @@ with [Jest](https://jestjs.io/).
 * [389. Find the Difference](/Problems/389.%20Find%20the%20Difference/)
 * [412. Fizz Buzz](/Problems/412.%20Fizz%20Buzz/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
+* [859. Buddy Strings](/Problems/859.%20Buddy%20Strings/)
 * [868. Binary Gap](/Problems/868.%20Binary%20Gap/)
 * [917. Reverse Only Letters](/Problems/917.%20Reverse%20Only%20Letters/)
 * [941. Valid Mountain Array](/Problems/941.%20Valid%20Mountain%20Array/)
