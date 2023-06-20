@@ -113,3 +113,4 @@ with [Jest](https://jestjs.io/).
 * [2725. Interval Cancellation](/Problems/2725.%20Interval%20Cancellation/)
 * [2726. Calculator with Method Chaining](/Problems/2726.%20Calculator%20with%20Method%20Chaining/)
 * [2727. Is Object Empty](/Problems/2727.%20Is%20Object%20Empty/)
+* [2733. Neither Minimum nor Maximum](/Problems/2733.%20Neither%20Minimum%20nor%20Maximum/)
