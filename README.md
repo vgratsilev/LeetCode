@@ -37,6 +37,7 @@ with [Jest](https://jestjs.io/).
 * [70. Climbing Stairs](/Problems/70.%20Climbing%20Stairs/)
 * [88. Merge Sorted Array](/Problems/88.%20Merge%20Sorted%20Array/)
 * [118. Pascal's Triangle](/Problems/118.%20Pascal's%20Triangle/)
+* [119. Pascal's Triangle II](/Problems/119.%20Pascal's%20Triangle%20II/)
 * [121. Best Time to Buy and Sell Stock](/Problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/)
 * [122. Best Time to Buy and Sell Stock II](/Problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)
 * [125. Valid Palindrome](/Problems/125.%20Valid%20Palindrome/)
