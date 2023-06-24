@@ -48,6 +48,7 @@ with [Jest](https://jestjs.io/).
 * [258. Add Digits](/Problems/258.%20Add%20Digits/)
 * [263. Ugly Number](/Problems/263.%20Ugly%20Number/)
 * [268. Missing Number](/Problems/268.%20Missing%20Number/)
+* [278. First Bad Version](/Problems/278.%20First%20Bad%20Version/)
 * [283. Move Zeroes](/Problems/283.%20Move%20Zeroes/)
 * [326. Power of Three](/Problems/326.%20Power%20of%20Three/)
 * [338. Counting Bits](/Problems/338.%20Counting%20Bits/)
