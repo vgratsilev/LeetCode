@@ -50,6 +50,7 @@ with [Jest](https://jestjs.io/).
 * [268. Missing Number](/Problems/268.%20Missing%20Number/)
 * [278. First Bad Version](/Problems/278.%20First%20Bad%20Version/)
 * [283. Move Zeroes](/Problems/283.%20Move%20Zeroes/)
+* [290. Word Pattern](/Problems/290.%20Word%20Pattern/)
 * [326. Power of Three](/Problems/326.%20Power%20of%20Three/)
 * [338. Counting Bits](/Problems/338.%20Counting%20Bits/)
 * [342. Power of Four](/Problems/342.%20Power%20of%20Four/)
