@@ -66,6 +66,7 @@ with [Jest](https://jestjs.io/).
 * [383. Ransom Note](/Problems/383.%20Ransom%20Note/)
 * [384. Shuffle an Array](/Problems/384.%20Shuffle%20an%20Array/)
 * [389. Find the Difference](/Problems/389.%20Find%20the%20Difference/)
+* [392. Is Subsequence](/Problems/392.%20Is%20Subsequence/)
 * [412. Fizz Buzz](/Problems/412.%20Fizz%20Buzz/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
