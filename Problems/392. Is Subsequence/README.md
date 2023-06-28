@@ -29,7 +29,7 @@ characters. (i.e., `"ace"` is a subsequence of `"abcde"` while `"aec"` is not).
 ##### Constraints
 
 * <code>0 <= s.length <= 100</code>
-* <code>0 <= t.length <= 10<sup></sup>4</code>
+* <code>0 <= t.length <= 10<sup>4</sup></code>
 * `s` and `t` consist only of lowercase English letters.
 
 **Follow up:** Suppose there are lots of incoming `s`, say <code>s<sub>1</sub>, s<sub>2</sub>, ...,
