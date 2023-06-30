@@ -70,6 +70,7 @@ with [Jest](https://jestjs.io/).
 * [405. Convert a Number to Hexadecimal](/Problems/405.%20Convert%20a%20Number%20to%20Hexadecimal/)
 * [409. Longest Palindrome](/Problems/409.%20Longest%20Palindrome/)
 * [412. Fizz Buzz](/Problems/412.%20Fizz%20Buzz/)
+* [414. Third Maximum Number](/Problems/414.%20Third%20Maximum%20Number/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
 * [859. Buddy Strings](/Problems/859.%20Buddy%20Strings/)
