@@ -73,6 +73,7 @@ with [Jest](https://jestjs.io/).
 * [414. Third Maximum Number](/Problems/414.%20Third%20Maximum%20Number/)
 * [415. Add Strings](/Problems/415.%20Add%20Strings/)
 * [434. Number of Segments in a String](/Problems/434.%20Number%20of%20Segments%20in%20a%20String/)
+* [500. Keyboard Row](/Problems/500.%20Keyboard%20Row/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
 * [859. Buddy Strings](/Problems/859.%20Buddy%20Strings/)
