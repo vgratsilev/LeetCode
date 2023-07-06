@@ -18,7 +18,7 @@ all the integers in the range `[1, n]` that do not appear in `nums`*.
 
 <pre>
 <b>Input:</b> nums = [1,1]
-<b>Output:</b> [2]]
+<b>Output:</b> [2]
 </pre>
 
 ##### Constraints
