@@ -77,6 +77,7 @@ with [Jest](https://jestjs.io/).
 * [448. Find All Numbers Disappeared in an Array](/Problems/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/)
 * [455. Assign Cookies](/Problems/455.%20Assign%20Cookies/)
 * [459. Repeated Substring Pattern](/Problems/459.%20Repeated%20Substring%20Pattern/)
+* [461. Hamming Distance](/Problems/461.%20Hamming%20Distance/)
 * [500. Keyboard Row](/Problems/500.%20Keyboard%20Row/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)

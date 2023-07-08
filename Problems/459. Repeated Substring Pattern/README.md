@@ -22,7 +22,7 @@ multiple copies of the substring together.
 <b>Output:</b> false
 </pre>
 
-**Example 2:**
+**Example 3:**
 
 <pre>
 <b>Input:</b> s = "abcabcabcabc"
