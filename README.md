@@ -80,6 +80,7 @@ with [Jest](https://jestjs.io/).
 * [461. Hamming Distance](/Problems/461.%20Hamming%20Distance/)
 * [463. Island Perimeter](/Problems/463.%20Island%20Perimeter/)
 * [476. Number Complement](/Problems/476.%20Number%20Complement/)
+* [482. License Key Formatting](/Problems/482.%20License%20Key%20Formatting/)
 * [500. Keyboard Row](/Problems/500.%20Keyboard%20Row/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
