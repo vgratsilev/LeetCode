@@ -82,6 +82,7 @@ with [Jest](https://jestjs.io/).
 * [476. Number Complement](/Problems/476.%20Number%20Complement/)
 * [482. License Key Formatting](/Problems/482.%20License%20Key%20Formatting/)
 * [485. Max Consecutive Ones](/Problems/485.%20Max%20Consecutive%20Ones/)
+* [492. Construct the Rectangle](/Problems/492.%20Construct%20the%20Rectangle/)
 * [500. Keyboard Row](/Problems/500.%20Keyboard%20Row/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
