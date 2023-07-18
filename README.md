@@ -84,6 +84,7 @@ with [Jest](https://jestjs.io/).
 * [485. Max Consecutive Ones](/Problems/485.%20Max%20Consecutive%20Ones/)
 * [492. Construct the Rectangle](/Problems/492.%20Construct%20the%20Rectangle/)
 * [495. Teemo Attacking](/Problems/495.%20Teemo%20Attacking/)
+* [496. Next Greater Element I](/Problems/496.%20Next%20Greater%20Element%20I/)
 * [500. Keyboard Row](/Problems/500.%20Keyboard%20Row/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
