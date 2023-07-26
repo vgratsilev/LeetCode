@@ -87,6 +87,7 @@ with [Jest](https://jestjs.io/).
 * [496. Next Greater Element I](/Problems/496.%20Next%20Greater%20Element%20I/)
 * [500. Keyboard Row](/Problems/500.%20Keyboard%20Row/)
 * [504. Base 7](/Problems/504.%20Base%207/)
+* [506. Relative Ranks](/Problems/506.%20Relative%20Ranks/)
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
 * [859. Buddy Strings](/Problems/859.%20Buddy%20Strings/)
