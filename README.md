@@ -43,6 +43,7 @@ with [Jest](https://jestjs.io/).
 * [125. Valid Palindrome](/Problems/125.%20Valid%20Palindrome/)
 * [136. Single Number](/Problems/136.%20Single%20Number/)
 * [200. Number of Islands](/Problems/200.%20Number%20of%20Islands/)
+* [205. Isomorphic Strings](/Problems/205.%20Isomorphic%20Strings/)
 * [231. Power of Two](/Problems/231.%20Power%20of%20Two/)
 * [242. Valid Anagram](/Problems/242.%20Valid%20Anagram/)
 * [258. Add Digits](/Problems/258.%20Add%20Digits/)
