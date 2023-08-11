@@ -144,3 +144,4 @@ with [Jest](https://jestjs.io/).
 * [2727. Is Object Empty](/Problems/2727.%20Is%20Object%20Empty/)
 * [2733. Neither Minimum nor Maximum](/Problems/2733.%20Neither%20Minimum%20nor%20Maximum/)
 * [2739. Total Distance Traveled](/Problems/2739.%20Total%20Distance%20Traveled/)
+* [2815. Max Pair Sum in an Array](/Problems/2815.%20Max%20Pair%20Sum%20in%20an%20Array/)
