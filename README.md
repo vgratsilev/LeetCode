@@ -98,6 +98,7 @@ with [Jest](https://jestjs.io/).
 * [917. Reverse Only Letters](/Problems/917.%20Reverse%20Only%20Letters/)
 * [941. Valid Mountain Array](/Problems/941.%20Valid%20Mountain%20Array/)
 * [977. Squares of a Sorted Array](/Problems/977.%20Squares%20of%20a%20Sorted%20Array/)
+* [1046. Last Stone Weight](/Problems/1046.%20Last%20Stone%20Weight/)
 * [1089. Duplicate Zeros](/Problems/1089.%20Duplicate%20Zeros/)
 * [1295. Find Numbers with Even Number of Digits](/Problems/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/)
 * [1346. Check If N and Its Double Exist](/Problems/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/)
