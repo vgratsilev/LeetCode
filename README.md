@@ -93,6 +93,7 @@ with [Jest](https://jestjs.io/).
 * [507. Perfect Number](/Problems/507.%20Perfect%20Number/)
 * [509. Fibonacci Number](/Problems/509.%20Fibonacci%20Number/)
 * [554. Brick Wall](/Problems/554.%20Brick%20Wall/)
+* [605. Can Place Flowers](/Problems/605.%20Can%20Place%20Flowers/)
 * [643. Maximum Average Subarray I](/Problems/643.%20Maximum%20Average%20Subarray%20I/)
 * [859. Buddy Strings](/Problems/859.%20Buddy%20Strings/)
 * [868. Binary Gap](/Problems/868.%20Binary%20Gap/)
